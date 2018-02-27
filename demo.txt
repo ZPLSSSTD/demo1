@@ -9,4 +9,8 @@ creat anew branch is quick.
 this is test branch.2018年2月27日14:40:16
 我是新的Dev分支
 尝试中文备注
+
 我现在是在BUG101分支，2018年2月27日14:55:26
+
+我是新的分支Dev1
+

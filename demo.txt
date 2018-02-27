@@ -1,3 +1,8 @@
 This is a Git Demo text.
 My name is zhu pei lin.
 admin add a new data.
+.layui-table-cell{
+overflow:none;
+white-space:none;
+}
+creat anew branch is quick.
